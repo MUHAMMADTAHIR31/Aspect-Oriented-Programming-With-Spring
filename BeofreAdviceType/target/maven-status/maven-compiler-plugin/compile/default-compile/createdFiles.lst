@@ -1,0 +1,4 @@
+com\springdemoaop\aspect\MyDemoLoggingAspect.class
+com\springdemo\aop\MainDemoApp.class
+com\springdemo\aop\DemoConfig.class
+com\spring\demoaop\dao\AccountDAO.class
